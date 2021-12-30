@@ -692,7 +692,6 @@
 *://*.cdn.fastclick.net/*
 *://*.ct.pinterest.com/*
 *://*.preponderantbasisbutterfly.com/*
-//common
 *://*.aabmxezph.com/*
 *://*.aacgeuvaoqbw.com/*
 *://*.aaeqlxdgx.bid/*
@@ -12622,7 +12621,6 @@
 *://*.zzvvzfiwyfq.com/*
 *://*.zzwajufm.com/*
 *://*.zzxlukodff.com/*
-//network blocks
 *://*.adpushup.com/*
 *://*.apex.adpushup.com/*
 *://*.app.adpushup.com/*
