@@ -13405,3 +13405,7 @@
 *://*.mutaseharpers.casa/*
 *://*.hubturn.info/*
 *://*.ts-tracker.me/*
+*://*.dateddeed.com/*
+*://*.dustymural.com/*
+*://*.dirtyfree.games/*
+*://*.uptimecdn.com/*
